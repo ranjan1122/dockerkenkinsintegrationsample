@@ -5,7 +5,5 @@ public class Main {
            System.out.println("Adding this for second time!!!");
            System.out.println("Just to check conflict in local");
            System.out.println("Let me change 2nd time from remote ");
-           System.out.println("Nilu");
-
-    }
+               }
 }
